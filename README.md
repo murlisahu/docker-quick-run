@@ -1,2 +1,4 @@
 # docker-quick-run
-quick run these things
+by this you can quick run following things in docker
+
+
